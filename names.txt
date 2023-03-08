@@ -1,0 +1,3 @@
+FERTIL
+INFERTIL
+Null
